@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 Have made a MERN stack project [Home Hero](https://github.com/AhmetChatgami/homeHero.git)
+- 👯 Developed a full-stack web application using the MERN stack. [Home Hero](https://github.com/AhmetChatgami/homeHero.git)
 
 - ⭐ Now I’m learning Next.js; tried to build a vendor site [Hero Kidz](https://github.com/AhmetChatgami/hero-kidz.git)
 
