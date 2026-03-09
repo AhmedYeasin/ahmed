@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ahmed Yeasin</h1>
-<h3 align="center">A passionate frontend developer, collaborate with React, Node.js and Express.js</h3>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ahmed Yeasin</h1></summary>
+    <!--- typo --->
+   <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+passionate+MERN+developer;frontend+focused!;collaborate+with+React->;Node.js+and+Express.js+|;JavaScript+Enthusiast+|+;Next.js+learner+and;tech+enthusiast;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+  </ul>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetchatgami" alt="ahmetchatgami" /></a> </p>
 
@@ -17,6 +26,9 @@
 
 - 📫 How to reach me **ahmetchatgami@gmail.com**
 
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/yeasinramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yeasinramadan" height="30" width="40" /></a>
@@ -25,19 +37,58 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009262337765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009262337765" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+## 🛠️ Tech Stacks  
 
+### **Frontend**
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
+
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+### **Backend**
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp; 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+### **Tools & Others**
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="50" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="54" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+
+
+
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 ### 🚀 Currently Learning & Looking for Opportunities
 <p align="left">
+  
+  <img src="https://img.shields.io/badge/Learning-Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="Learning Next.js" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Learning-Node.js-000000?style=for-the-badge&logo=nodedotjs" alt="Learning Node.js" />
-  <img src="https://img.shields.io/badge/Learning-Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="Learning Next.js" />
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-blue?style=for-the-badge&logo=linkedin" alt="Looking for Opportunities" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open_to-Freelance_Projects-brightgreen?style=for-the-badge&logo=upwork" alt="Open for Work" />&nbsp;&nbsp;&nbsp;
   
-  <img src="https://img.shields.io/badge/Open_to-Freelance_Projects-brightgreen?style=for-the-badge&logo=upwork" alt="Open for Work" />
-  
-  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-blue?style=for-the-badge&logo=linkedin" alt="Looking for Opportunities" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetchatgami&show_icons=true&theme=radical&count_private=true" alt="ahmetchatgami stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedyeasin&show_icons=true&theme=radical&count_private=true" alt="ahmetchatgami stats" />
 </p>
+
+
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
