@@ -91,4 +91,4 @@
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 ### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/AhmedYeasin/contribution-snake/blob/output/grid.svg)
